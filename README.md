@@ -1,7 +1,7 @@
 # Neural-Networks-Using-PyTorch  
 
 
-Neural Networks Built In PyTorch.  
+Neural Networks Built In PyTorch (with lucid visualisations).  
 Includes CNNs:  
   * Basic CNN  
   * LeNet  
